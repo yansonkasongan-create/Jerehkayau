@@ -1,0 +1,6 @@
+{
+  "name": "Silsilah Keluarga",
+  "description": "Aplikasi web untuk mendokumentasikan, melacak, dan memvisualisasikan hubungan silsilah keluarga besar secara dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
